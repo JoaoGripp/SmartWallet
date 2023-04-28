@@ -11,6 +11,8 @@
 		F87F161229FC16720054FA6B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F161129FC16720054FA6B /* ContentView.swift */; };
 		F87F161429FC16740054FA6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F87F161329FC16740054FA6B /* Assets.xcassets */; };
 		F87F161729FC16740054FA6B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F87F161629FC16740054FA6B /* Preview Assets.xcassets */; };
+		F87F161E29FC19FC0054FA6B /* StockCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F161D29FC19FC0054FA6B /* StockCell.swift */; };
+		F87F162029FC20400054FA6B /* Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F161F29FC20400054FA6B /* Stock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F87F161129FC16720054FA6B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F87F161329FC16740054FA6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F87F161629FC16740054FA6B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F87F161D29FC19FC0054FA6B /* StockCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockCell.swift; sourceTree = "<group>"; };
+		F87F161F29FC20400054FA6B /* Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				F87F161129FC16720054FA6B /* ContentView.swift */,
 				F87F161329FC16740054FA6B /* Assets.xcassets */,
 				F87F161529FC16740054FA6B /* Preview Content */,
+				F87F161D29FC19FC0054FA6B /* StockCell.swift */,
+				F87F161F29FC20400054FA6B /* Stock.swift */,
 			);
 			path = SmartWallet;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				F87F161229FC16720054FA6B /* ContentView.swift in Sources */,
 				F87F161029FC16720054FA6B /* SmartWalletApp.swift in Sources */,
+				F87F162029FC20400054FA6B /* Stock.swift in Sources */,
+				F87F161E29FC19FC0054FA6B /* StockCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
